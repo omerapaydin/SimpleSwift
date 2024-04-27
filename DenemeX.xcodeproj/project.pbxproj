@@ -16,6 +16,7 @@
 		FF9F117D2B935705001330A8 /* DenemeXTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF9F117C2B935705001330A8 /* DenemeXTests.swift */; };
 		FF9F11872B935705001330A8 /* DenemeXUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF9F11862B935705001330A8 /* DenemeXUITests.swift */; };
 		FF9F11892B935705001330A8 /* DenemeXUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF9F11882B935705001330A8 /* DenemeXUITestsLaunchTests.swift */; };
+		FF9F11962B936714001330A8 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF9F11952B936714001330A8 /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		FF9F11822B935705001330A8 /* DenemeXUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DenemeXUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF9F11862B935705001330A8 /* DenemeXUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DenemeXUITests.swift; sourceTree = "<group>"; };
 		FF9F11882B935705001330A8 /* DenemeXUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DenemeXUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		FF9F11952B936714001330A8 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				FF9F11652B935705001330A8 /* AppDelegate.swift */,
 				FF9F11672B935705001330A8 /* SceneDelegate.swift */,
 				FF9F11692B935705001330A8 /* ViewController.swift */,
+				FF9F11952B936714001330A8 /* ViewController2.swift */,
 				FF9F116B2B935705001330A8 /* Main.storyboard */,
 				FF9F116E2B935705001330A8 /* Assets.xcassets */,
 				FF9F11702B935705001330A8 /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FF9F116A2B935705001330A8 /* ViewController.swift in Sources */,
+				FF9F11962B936714001330A8 /* ViewController2.swift in Sources */,
 				FF9F11662B935705001330A8 /* AppDelegate.swift in Sources */,
 				FF9F11682B935705001330A8 /* SceneDelegate.swift in Sources */,
 			);
